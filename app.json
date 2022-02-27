@@ -1,0 +1,13 @@
+﻿{
+    "name": "0224",
+    "description": "0224",
+    "keywords": ["VLESS"],
+    "env": {
+        "ID": {
+            "description": "VLESS ID, use uuid generator",
+            "value": "87b5c352-90d7-4ee1-9d1e-b03231c9fc53"
+        }
+    },
+    "repository": "https://github.com/kjhhnmhm/he0228k",
+    "stack": "container"
+}
